@@ -76,27 +76,17 @@ sections:
 
   - block: hero
     content:
-      title: | 
-        
-      image:
-        filename: logo.png
-        position: center
+      title: Introduction 
       text: |
         <br>
-        
-        Group Introduction 
-        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit,
-        vestibulum ut, placerat ac, adipiscing vitae, felis. Curabitur dictum gravida
-        mauris. Nam arcu libero, nonummy eget, consectetuer id, vulputate a, magna.
-        Donec vehicula augue eu neque. Pellentesque habitant morbi tristique senectus
-        et netus et malesuada fames ac turpis egestas. Mauris ut leo. 
+        Welcome to the Physical Intelligence Lab! Here, we merge the realms of robotics and machine learning to explore innovative solutions that enhance physical interaction with the world. Our research delves into intelligent systems that not only perform tasks but also learn and adapt in real-time, paving the way for advancements in automation, smart environments, and beyond.
 
     design:
       background:
       # Choose colors such as from https://html-color-codes.info
-          gradient_start: '#013ADF'
-          gradient_end: '#58FAF4'
-          gradient_angle: 90
+          gradient_start: '#003f88'
+          gradient_end: '#eeeeee'
+          gradient_angle: 45
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: true
   
@@ -116,28 +106,8 @@ sections:
       page_type: post
       text:  
     design:
-      view: compact
+      view: showcase
       columns: '2'
-
-  - block: collection
-    content:
-      title: Latest Events
-      subtitle:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: event
-      text:  
-    design:
-      view: compact
-      columns: '2'
-
 
   - block: collection
     content:
@@ -148,19 +118,8 @@ sections:
         folders:
           - publication
         publication_type: ''
-
     design:
-      view: citation
+      view: compact
       columns: '2'
-
-
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team" %}}
-    design:
-      columns: '1'
 
 ---

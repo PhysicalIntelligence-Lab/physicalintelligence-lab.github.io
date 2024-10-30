@@ -26,13 +26,13 @@ bio: to be edit.
 interests:
   - Control
   - Robotics
-  - Reinforcement Learning
+  - Mechine Learning
 
 education:
   courses:
     - course: Undergraduate student in Electrical Engineering
-      institution: Zhejiang University/University of Illinois Urbana-Champaign
-      year: 2021 - Present
+      institution: Zhejiang University - University of Illinois Urbana-Champaign Institute
+      year: 2021 - 2025
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
