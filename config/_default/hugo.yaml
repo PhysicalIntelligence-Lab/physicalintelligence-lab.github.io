@@ -4,10 +4,10 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Physical Intelligence Lab # Website name
-baseURL: 'leixinjonaschang.github.io/phi_lab_website' # Website URL
+baseURL: 'physicalintelligence-lab.github.io' # Website URL
 
 ############################
-## LANGUAGE 
+## LANGUAGE
 ############################
 
 defaultContentLanguage: en
@@ -21,7 +21,8 @@ removePathAccents: true
 
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+pagination:
+  pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
@@ -36,10 +37,10 @@ outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
 imaging:
-  resampleFilter: Box
+  resampleFilter: lanczos
   quality: 75
-  anchor: Center
-timeout: 30s
+  anchor: smart
+timeout: 600000
 taxonomies:
   tag: tags
   category: categories
