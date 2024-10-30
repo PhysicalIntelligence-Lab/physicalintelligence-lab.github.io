@@ -48,9 +48,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/leixinchang
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.com/citations?hl=zh-CN&user=Ahu5mg4AAAAJ
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=Rc70LsQAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/Leixinjonaschang
@@ -72,4 +72,8 @@ user_groups:
   - Master Students
 ---
 
-A robot enthusiast.
+I'm a master student at [ZJU-UIUC Institute](https://zjui.intl.zju.edu.cn/en) of [Zhejiang University](https://www.zju.edu.cn/english/) in Hangzhou, China. Currently, I am in [IRVC Lab](https://rvclab.github.io/) and advised by [Liangjing Yang](https://person.zju.edu.cn/ylj). And I will be joining the [Physical Intelligenc Lab](https://physicalintelligence-lab.github.io/) directed by [Hua Chen](https://zjui.intl.zju.edu.cn/en/team/teacherinfo/2461) next March as a PhD student.
+
+I'm interested in **legged robot** , **optimal control** and **deep reinforcement learning**. My research focus on how to infuse intelligence into physical interactions. 
+
+Look at my personal website [**leixinchang.me**](https://leixinchang.me/) for more info.
