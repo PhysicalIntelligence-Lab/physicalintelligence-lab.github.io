@@ -1,5 +1,5 @@
 ---
-title: Advanced Robotics (2023 Spring)
+title: Advanced Robotics (Example)
 date: 2022-10-10
 type: landing
 
