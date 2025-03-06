@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title:  Welcome to the Hua Chen Research Group
-        content: 这里的照片感觉可以放合影，以后有视频也可以放视频
+      - title:  Welcome to the Physical Intelligence Lab
+        content: 
         align: center
         background:
           image:
@@ -106,7 +106,8 @@ sections:
       page_type: post
       text:  
     design:
-      view: showcase
+      # view: showcase 
+      view: compact
       columns: '2'
 
   - block: collection
