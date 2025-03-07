@@ -84,7 +84,7 @@ links:
 # #   Otherwise, set `slides: ""`.
 # slides:
 
-# share: false # This is to remove the icons in the bottom of the page, which is set 'true' by default.
+share: false # This is to remove the icons in the bottom of the page, which is set 'true' by default.
 ---
 
 
