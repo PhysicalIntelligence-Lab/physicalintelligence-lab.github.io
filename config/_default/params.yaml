@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© Hua Chen Group {year} '
+    notice: '© Physical Intelligence Lab @ ZJU-UIUC Institute {year} '
     license:
       # enable: true
       # allow_derivatives: false
