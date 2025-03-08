@@ -1,7 +1,6 @@
 ---
 title: 'Beyond Robustness: Learning Unknown Dynamic Load Adaptation for Quadruped Locomotion on Rough Terrain' 
-
-author:
+authors:
   - Leixin Chang
   - Yuxuan Nai
   - Hua Chen
@@ -19,8 +18,8 @@ date: '2025-02-01T00:00:00Z'
 # publication_types: ['0']
 
 # # Publication name and optional abbreviated publication name.
-# publication: 'In 2025 IEEE International Conference on Robotics & Automation'
-# publication_short: 'In **ICRA 2025**'
+publication: 'In 2025 IEEE International Conference on Robotics & Automation'
+publication_short: 'In **ICRA 2025** (Accepted)'
 
 # # abstract: 
 
