@@ -10,7 +10,7 @@ last_name: Chang
 superuser: false
 
 # Role/position
-role: Master Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -27,12 +27,12 @@ interests:
 
 education:
   courses:
-    # - course: PhD in Precision Engineering
-    #   institution: University of Tokyo
-    #   year: 2014
-    - course: M.E. in Mechanical Engineering
+    - course: PhD in Mechanical Engineering
       institution: Zhejiang University
-      year: 2023 - present
+      year: 2025 - present
+    - course: M.Sc in Mechanical Engineering
+      institution: Zhejiang University
+      year: 2023 - 2025 (Transfer to PhD)
     - course: B.E. in Mechanical Engineering
       institution: Guangdong University of Technology
       year: 2019 - 2023
@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - PhD Students
 ---
 
 I'm a master student at [ZJU-UIUC Institute](https://zjui.intl.zju.edu.cn/en) of [Zhejiang University](https://www.zju.edu.cn/english/) in Hangzhou, China. Currently, I am in [IRVC Lab](https://rvclab.github.io/) and advised by [Liangjing Yang](https://person.zju.edu.cn/ylj). And I will be joining the [Physical Intelligenc Lab](https://physicalintelligence-lab.github.io/) directed by [Hua Chen](https://zjui.intl.zju.edu.cn/en/team/teacherinfo/2461) next March as a PhD student.
