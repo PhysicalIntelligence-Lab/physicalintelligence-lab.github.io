@@ -26,7 +26,7 @@ bio: to be edit.
 interests:
   - Control
   - Robotics
-  - Mechine Learning
+  - Machine Learning
 
 education:
   courses:
