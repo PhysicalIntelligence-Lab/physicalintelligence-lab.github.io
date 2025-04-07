@@ -16,15 +16,14 @@ role: Visiting PhD Student
 organizations:
   - name: ZJU-UIUC Institute, Zhejiang University
     url: 'https://www.zju.edu.cn/english/'
-
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
- - State estimation 
- - Geometric methods 
- - Dynamical system 
- - Generative model
+ - State Estimation 
+ - Geometric Methods 
+ - Dynamical System 
+ - Generative Model
 
 
 education:

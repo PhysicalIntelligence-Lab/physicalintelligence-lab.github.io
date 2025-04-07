@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Yuxuan Nai
+title: Zhizhan Li
 
 # Full Name (for SEO)
-first_name: Yuxuan
-last_name: Nai
+first_name: Zhizhan
+last_name: Li
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,14 +21,15 @@ organizations:
 bio: My research interests include robotics, optimal control and reinforcement learning.
 
 interests:
-  - Robotics
-  - Reinforcement Learning
+   - Robotics
+   - Mechanical Design and Manufacturing
+   - Reinforcement Learning
 
 education:
   courses:
     - course: Undergraduate student in Mechanical Engineering
       institution: Zhejiang University/University of Illinois Urbana-Champaign
-      year: 2022 - Present
+      year: 2020 - Present
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -37,7 +38,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:yuxuan.22@intl.zju.edu.cn'
+    link: 'mailto:zhizhan.20@intl.zju.edu.cn'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/leixinchang
@@ -65,4 +66,4 @@ user_groups:
   - Undergraduate Students
 ---
 
-My research interests include robotics, optimal control and reinforcement learning.
+This guy designs and builds mechanical structures for wheeled robots and robotic arms - not through rational calculation, but pure beast-like intuition. Meanwhile, his coding and control skills are at newborn baby level. Currently, he's attempting to learn reinforcement learning (pray he doesn't go completely feral and try to upgrade his brain by chewing on his graphics card).
