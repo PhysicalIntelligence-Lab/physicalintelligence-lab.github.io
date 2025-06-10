@@ -23,6 +23,6 @@ sections:
       sort_ascending: true
     design:
       show_interests: true
-      show_role: false
+      show_role: True
       show_social: true
 ---

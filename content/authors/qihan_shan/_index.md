@@ -10,7 +10,7 @@ last_name: Shan
 superuser: false
 
 # Role/position
-role: Undegraduate Student
+role: Alumnus, went to UPenn.
 
 # Organizations/Affiliations
 organizations:
@@ -23,16 +23,19 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: to be edit.
 
-interests:
-  - Control
-  - Robotics
-  - Reinforcement Learning
+# interests:
+#   - Control
+#   - Robotics
+#   - Reinforcement Learning
 
 education:
   courses:
     - course: Undergraduate student in Mechanical Engineering
       institution: Zhejiang University/University of Illinois Urbana-Champaign
-      year: 2021 - Present
+      year: 2021 - 2025
+    - course: Master Student
+      institution: University of Pennsylvania
+      year: present
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -63,5 +66,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Students
+  - Alumni
 ---
