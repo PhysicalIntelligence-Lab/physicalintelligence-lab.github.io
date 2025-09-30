@@ -10,7 +10,7 @@ last_name: Wu
 superuser: false
 
 # Role/position
-role: Undegraduate Student
+role: Master Student at Harvard
 
 # Organizations/Affiliations
 organizations:
@@ -21,15 +21,21 @@ organizations:
 bio: Senior undergraduate student of ZJU-UIUC institute of Zhejiang University.
 
 interests:
-  - Robotics
-  - Computer Vision
-  - Imitation and Reinforcement Learning
+  - Manipulation
+  - Multimodal Language Models
+  - Imitation Learning
 
 education:
   courses:
-    - course: Undergraduate student in Computer Engineering
-      institution: Zhejiang University/University of Illinois Urbana-Champaign
-      year: 2021 - Present
+    - course: B.E. Computer Engineering
+      institution: Zhejiang University (ZJU-UIUC Institute)
+      year: 2021 - 2025
+    - course: B.S. in Computer Engineering
+      institution: University of Illinois Urbana-Champaign
+      year: 2021 - 2025
+    - course: M.E. in Computational Science and Engineering
+      institution: Harvard University
+      year: 2025 - 2027
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -48,6 +54,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/Raventhatfly
+  - icon: google-scholar
+    icon_pack: fab
+    link: https://scholar.google.com/citations?user=7d2oto0AAAAJ&hl=zh-CN
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,13 +72,14 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Students
+  - Alumni
 ---
 
-My name is Feiyang Wu, a senior student majoring in Computer
-Engineering of ZJU-UIUC institude of Zhejiang University. I am currently
-collabraing with Physical Intelligence Lab. I am expected to graduate in 
-year 2025. 
+My name is Feiyang Wu, a Computational Science and Engineering(CSE) Master student
+at Harvard University. I obtained my bachelor's degree from both Zhejiang University-Univeristy and University of Illinois Urbana-Champaign in 2025 and collaborated with Phisical Intelligence Lab during my undergraduate study.
+
+Currently I am seeking job and research opportunities in the United States. I am particularly interested in the fields of manipulation and VLA for action generation.
+
 [{{< icon name="link" >}}](https://raventhatfly.github.io/)
 
 

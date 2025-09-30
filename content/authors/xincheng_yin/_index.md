@@ -63,7 +63,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Students
+  - Alumni
 ---
 
 I'm interested in Robotics, Imitation Learning, Reinforcement Learning, Zero-shot/One-shot/Few-shot Learning, Sim-to-Real Transfer, 3D Vision, Foundation Models. My long-term goal is (1) to enable robots to have the ability to learn from Internet-scale data efficiently and (2) to equip robots with human level of manipulation ability.
