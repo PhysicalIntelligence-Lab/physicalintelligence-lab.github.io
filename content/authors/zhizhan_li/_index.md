@@ -63,7 +63,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Students
+  - Alumni
 ---
 
 This guy designs and builds mechanical structures for wheeled robots and robotic arms - not through rational calculation, but pure beast-like intuition. Meanwhile, his coding and control skills are at newborn baby level. Currently, he's attempting to learn reinforcement learning (pray he doesn't go completely feral and try to upgrade his brain by chewing on his graphics card).
