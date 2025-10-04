@@ -24,9 +24,9 @@ organizations:
 bio: to be edit.
 
 interests:
-  - Control
   - Robotics
-  - Machine Learning
+  - Reinforcement Learning
+  - Imitation Learning
 
 education:
   courses:
@@ -34,14 +34,18 @@ education:
       institution: Zhejiang University - University of Illinois Urbana-Champaign Institute
       year: 2021 - 2025
 
+    - course: Graduate student in Artificial Intelligence
+      institution: Zhejiang University - University of Illinois Urbana-Champaign Institute
+      year: 2025 - Present
+
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:xihe.21@intl.zju.edu.cn'
+  #- icon: envelope
+  #  icon_pack: fas
+  #  link: 'mailto:xihe.21@intl.zju.edu.cn'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.com/citations?hl=zh-CN&user=Ahu5mg4AAAAJ
@@ -63,5 +67,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Students
+  - Master Students
 ---
