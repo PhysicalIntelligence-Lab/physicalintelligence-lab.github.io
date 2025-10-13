@@ -40,7 +40,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:yao29@illinois.edu'
-
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Yao-Xinchen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
