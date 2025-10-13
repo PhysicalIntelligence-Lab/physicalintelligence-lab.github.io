@@ -36,10 +36,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'xinchen.22@intl.zju.edu.cn'
+    link: 'mailto:xinchen.22@intl.zju.edu.cn'
   - icon: envelope
     icon_pack: fas
-    link: 'yao29@illinois.edu'
+    link: 'mailto:yao29@illinois.edu'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

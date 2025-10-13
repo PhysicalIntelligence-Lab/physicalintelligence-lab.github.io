@@ -21,7 +21,8 @@ organizations:
 bio: Hello, I am a mechanical junior studying diffusion and robotics!
 
 interests:
-  - Robotics diffusion
+  - Robotics
+  - Diffusion
 
 education:
   courses:
