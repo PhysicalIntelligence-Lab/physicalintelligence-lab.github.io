@@ -10,7 +10,7 @@ last_name: Li
 superuser: false
 
 # Role/position
-role: Undegraduate Student
+role: Master Student at UIUC
 
 # Organizations/Affiliations
 organizations:

@@ -10,7 +10,7 @@ last_name: Yin
 superuser: false
 
 # Role/position
-role: Undegraduate Student
+role: Master Student at GeorgiaTech
 
 # Organizations/Affiliations
 organizations:

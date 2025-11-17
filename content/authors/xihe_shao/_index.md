@@ -10,7 +10,7 @@ last_name: Shao
 superuser: false
 
 # Role/position
-role: Undegraduate Student
+role: Master Student
 
 # Organizations/Affiliations
 organizations:

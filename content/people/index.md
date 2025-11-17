@@ -14,6 +14,7 @@ sections:
           - Principal Investigator
           - PhD Students
           - Master Students
+          - Research Assistants
           - Undergraduate Students
           - Visitors
           - Robots
